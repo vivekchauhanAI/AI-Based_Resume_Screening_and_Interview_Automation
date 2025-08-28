@@ -1,0 +1,2 @@
+# AI-Based_Resume_Screening_and_Interview_Automation
+An enterprise-grade recruitment automation platform designed to revolutionize talent acquisition using AI, NLP, and Generative AI. This system intelligently parses resumes, ranks candidates, generates AI-driven summaries, and automates interview scheduling while ensuring bias-free hiring and full compliance with EEOC, GDPR, and CCPA regulations.
